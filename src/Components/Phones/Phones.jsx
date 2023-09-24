@@ -6,7 +6,7 @@ const Phones = ({ phones }) => {
         <div className='text-center p-2 text-2xl '>
             All category Phones
 
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 '>
+            <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-5 '>
                 {
                     phones?.map(phone => <Phone key={phone.id} phone={phone}></Phone>)
                 }
