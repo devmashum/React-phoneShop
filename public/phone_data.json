@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "image": "https://example.com/phone1.jpg",
+        "phone_name": "Apple iPhone 13",
+        "price": 999.99,
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "image": "https://example.com/phone2.jpg",
+        "phone_name": "Samsung Galaxy S21",
+        "price": 899.99,
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "image": "https://example.com/phone3.jpg",
+        "phone_name": "Google Pixel 6",
+        "price": 799.99,
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "image": "https://example.com/phone4.jpg",
+        "phone_name": "OnePlus 9 Pro",
+        "price": 749.99,
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "image": "https://example.com/phone5.jpg",
+        "phone_name": "Xiaomi Mi 11",
+        "price": 649.99,
+        "rating": 4.5
+    },
+    {
+        "id": 6,
+        "image": "https://example.com/phone6.jpg",
+        "phone_name": "Sony Xperia 1 III",
+        "price": 899.99,
+        "rating": 4.6
+    },
+    {
+        "id": 7,
+        "image": "https://example.com/phone7.jpg",
+        "phone_name": "LG Velvet 5G",
+        "price": 699.99,
+        "rating": 4.4
+    },
+    {
+        "id": 8,
+        "image": "https://example.com/phone8.jpg",
+        "phone_name": "OnePlus Nord 2",
+        "price": 499.99,
+        "rating": 4.3
+    },
+    {
+        "id": 9,
+        "image": "https://example.com/phone9.jpg",
+        "phone_name": "Motorola Moto G Power",
+        "price": 299.99,
+        "rating": 4.2
+    },
+    {
+        "id": 10,
+        "image": "https://example.com/phone10.jpg",
+        "phone_name": "Nokia 7.2",
+        "price": 249.99,
+        "rating": 4.1
+    },
+    {
+        "id": 11,
+        "image": "https://example.com/phone11.jpg",
+        "phone_name": "ASUS ZenFone 8",
+        "price": 699.99,
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "image": "https://example.com/phone12.jpg",
+        "phone_name": "Huawei P40",
+        "price": 599.99,
+        "rating": 4.0
+    },
+    {
+        "id": 13,
+        "image": "https://example.com/phone13.jpg",
+        "phone_name": "Oppo Reno 6",
+        "price": 449.99,
+        "rating": 4.4
+    },
+    {
+        "id": 14,
+        "image": "https://example.com/phone14.jpg",
+        "phone_name": "Realme 8 Pro",
+        "price": 349.99,
+        "rating": 4.3
+    },
+    {
+        "id": 15,
+        "image": "https://example.com/phone15.jpg",
+        "phone_name": "Vivo V21",
+        "price": 399.99,
+        "rating": 4.2
+    },
+    {
+        "id": 16,
+        "image": "https://example.com/phone16.jpg",
+        "phone_name": "BlackBerry Key2",
+        "price": 499.99,
+        "rating": 4.1
+    },
+    {
+        "id": 17,
+        "image": "https://example.com/phone17.jpg",
+        "phone_name": "Motorola Razr",
+        "price": 1399.99,
+        "rating": 4.6
+    },
+    {
+        "id": 18,
+        "image": "https://example.com/phone18.jpg",
+        "phone_name": "ZTE Axon 30",
+        "price": 599.99,
+        "rating": 4.0
+    },
+    {
+        "id": 19,
+        "image": "https://example.com/phone19.jpg",
+        "phone_name": "Sony Xperia 5 III",
+        "price": 799.99,
+        "rating": 4.7
+    },
+    {
+        "id": 20,
+        "image": "https://example.com/phone20.jpg",
+        "phone_name": "Xiaomi Redmi Note 10",
+        "price": 249.99,
+        "rating": 4.4
+    }
+]
